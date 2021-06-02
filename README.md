@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sammael16 and my name is Muhammed Eroğlu.I am a Mechatronics Engineering student in Bursa Technichal University.
 - 👀 I’m interested in programming and game development.
-- 🌱 I’m currently learning Unity and C#,Javascript for game development.
+- 🌱 I’m currently learning C# for Unity game engine and Javascript for HTML5 game development.I also want to learn machine learning algorithms.
 - 📫 E-mail:eroglu_muhammed171@hotmail.com
 
 <!---
